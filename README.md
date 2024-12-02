@@ -28,4 +28,4 @@ When the short-term SMA crosses above the long-term SMA a buy signal will be cre
 ![Plot](/img/3.png)
 
 # Disclaimer
-This is for educational purposed only. It is not intended as financial advice, investment advice, or anything of the like. Always seek advice from a financial advisor or other qualified financial professional with questions you may have regarding financial decisions.
+This is for educational purposes only. It is not intended as financial advice, investment advice, or anything of the like. Always seek advice from a financial advisor or other qualified financial professionals with questions you may have regarding financial decisions.
